@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nf/sxVEjKCX11kFrGn7sdSt+HHiuJa4pE/eV3RkPuIJOjbuM3KLANfkcNAxNFKgplrkmxJCdUULfjp4iBqZTeQ==",
+  "dgSpecHash": "fUHvrtN8nSY2QpocO9PwMHeuMrARxj0WR4Swhzfdtc1hYKvO9h/lr+qDbLQs8zuCFIzV7K74NaP/FXIpndi6Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\Documents\\KronosVideo\\KronosVideo.csproj",
+  "projectFilePath": "C:\\Users\\Patrick\\Documents\\GitHub\\TheVideoStore\\KronosVideo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patrick\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Patrick\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
