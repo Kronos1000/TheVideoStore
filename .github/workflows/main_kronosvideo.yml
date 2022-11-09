@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kronosvideo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5E7C0373BDD48A98164D643CA652EC5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B8CC1F892EC4F5D826B15548067B2BA }}
           package: .
